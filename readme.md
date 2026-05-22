@@ -3,7 +3,7 @@
 https://youtu.be/PNKB_fpgbxM
 
 ## Description
-A Python automation tool that processes daily sales billing reports for Brother International Vietnam. The program reads raw Excel files exported from SAP, cleans and categorizes the data, then outputs formatted multi-sheet Excel reports ready for business use.
+A Python automation tool that processes daily sales billing reports for printer technology company Vietnam. The program reads raw Excel files exported from SAP, cleans and categorizes the data, then outputs formatted multi-sheet Excel reports ready for business use.
 
 ## Problem Solved
 Daily billing reports from SAP contain messy raw data:
