@@ -1,0 +1,7 @@
+input_data/
+output_data/
+mapping_dealer.xlsx
+*.xlsx
+*.xls
+__pycache__/
+*.pyc
